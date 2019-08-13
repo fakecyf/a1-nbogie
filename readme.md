@@ -1,5 +1,3 @@
-student nbogie amended this readme with junk.
-
 # JavaScript DOM - Payments
 
 In this project, you will work with your group to build a small payments tool. This tool will help you keep track of how many payments you've received and which payments have been completed.
